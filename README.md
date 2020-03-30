@@ -1,4 +1,4 @@
-# LinkedIn API - Find Jobs by Biltering the Job Title
+# LinkedIn API - Find Jobs by Filtering the Job Title
 Helper functions to LinkedIn api for finding jobs by filtering the titles
 
 ## Installation
